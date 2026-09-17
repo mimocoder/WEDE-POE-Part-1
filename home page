@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:C="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Home</title>
+            <body>
+                <body bgcolor="#fff8dc"></body>
+
+         <header>
+             <h1><u>Welcome to Hashtag SA Unite</u></h1>
+             <p><i>Serving our communities with love</i></p>
+             <!-- Navigation links for all 5 pages -->
+            <nav>
+              <a href="Home Page.html"> Home </a>
+              <a href="About us Page.html"> About us </a>
+              <a href="Services Page.html"> Services </a>
+              <a href="Enquiry Page.html"> Enquiries </a>
+              <a href="Contact Page.html"> Contact </a>
+            </nav>
+
+         </header>
+
+<div class="main-content">
+    <h2><b> Empowering the youth</b></h2>
+    <p>This is the work this community does for the people.</p>
+
+    <!-- Image Placeholder -->
+    <img src="https://www.google.com/imgres?q=Hashtag%20SA%20unite&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1230679115875040&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fhashtagsaunite%2F&docid=3ZPBV31m-bSZFM&tbnid=efSinOE0jWy2MM&vet=12ahUKEwjk0LuL9qyWAxV8TkEAHUNRLzQQnPAOegQIfhAA..i&w=1080&h=810&hcb=2&ved=2ahUKEwjk0LuL9qyWAxV8TkEAHUNRLzQQnPAOegQIfhAA" width="600" height="300" alt="Hero Banner">
+    <p><b>Explore our site to learn more about what we do!</b></p>
+</div>
+     <p>We do our work to help those who are in need. This is to build better communities for our people and our children</p>
+    <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
