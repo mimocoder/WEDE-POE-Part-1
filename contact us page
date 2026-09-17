@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:C="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Contact</title>
+<body>
+<body bgcolor="#fff8dc"></body>
+</head>
+<header>
+  <h1><u>Contact page</u></h1>
+  <p><i>Serving our communities with love</i></p>
+  <nav>
+    <!-- Navigation links for all 5 pages -->
+    <a href="Home Page.html"> Home </a>
+    <a href="About us Page.html"> About us </a>
+    <a href="Services Page.html"> Services </a>
+    <a href="Enquiry Page.html"> Enquiries </a>
+    <a href="Contact Page.html"> Contact </a>
+  </nav>
+  <!-- Contact details of Hashtag SA Unite from phone number to email and address -->
+  <h2>Direct Email</h2>
+  <p>For general inquiries, project details, or direct messages, email us at: <a href="mailto:info@hashtagsaunite.co.za">info@hashtagsaunite.co.za</a></p>
+
+  <h2>Urgent Calls</h2>
+  <p>For immediate assistance or urgent queries, call us at: <a href="tel:0768777888">+27 (0)76 877 7888</a></p>
+
+  <h2>Office Address</h2>
+  <p>13 Parow St, Parow, Cape Town, 7500</p>
+  <p>View Office Location on Google Maps</p>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.0225793191066!2d18.57547997517694!3d-33.909727521179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5b51266935e7%3A0xb98375e9c9a5de32!2sHASHTAG%20SA%20UNITE!5e1!3m2!1sen!2sza!4v1787059850811!5m2!1sen!2sza" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</header>
+
+
+<footer>
+  <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
