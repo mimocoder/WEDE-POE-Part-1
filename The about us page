@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:C="http://www.w3.org/1999/xhtml">
+<head>
+  <title>About us</title>
+<body>
+<body bgcolor="#fff8dc"></body>
+<header>
+  <h1><u>About us</u></h1>
+  <p></p>
+  <nav>
+    <!-- Navigation links for all 5 pages -->
+    <a href="Home Page.html"> Home </a>
+    <a href="About us Page.html"> About us </a>
+    <a href="Services Page.html"> Services </a>
+    <a href="Enquiry Page.html"> Enquiries </a>
+    <a href="Contact Page.html"> Contact </a>
+  </nav>
+  <!-- Information about Hashtag SA Unite -->
+  <h1>About Hashtag SA Unite</h1>
+
+  <h2>Brand Story</h2>
+  <p>Hashtag SA Unite was founded to bring people together and spark positive action.
+    It began with a vision to create a connected community where voice, purpose,
+    and shared goals drive real impact across South Africa.</p>
+
+  <h2>Mission and Values</h2>
+  <p>Our mission is to unite individuals and communities through shared purpose,
+    collaboration, and empowerment. We value integrity, inclusivity, unity, and driving meaningful change.</p>
+
+  <h2>Target Audience</h2>
+  <p>Our work is for passionate individuals, community leaders, organizations, and businesses who care about collaboration,
+    progress, and making a lasting positive impact in South Africa.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVK4anVlMdIWktMtkcWOiFbmyCvljQX7_qUfjzvw1bQ&s=10" width="600" height="300">
+</header>
+
+
+<footer>
+  <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
