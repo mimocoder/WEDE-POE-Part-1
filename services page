@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:C="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Services</title>
+<body>
+<body bgcolor="#fff8dc"></body>
+</head>
+<header>
+    <h1><u>Services page</u></h1>
+    <p><i>Serving our communities with love</i></p>
+    <nav>
+        <!-- Navigation links for all 5 pages -->
+        <a href="Home Page.html"> Home </a>
+        <a href="About us Page.html"> About us </a>
+        <a href="Services Page.html"> Services </a>
+        <a href="Enquiry Page.html"> Enquiries </a>
+        <a href="Contact Page.html"> Contact </a>
+    </nav>
+    <!--Information about what the NPO offers-->
+    <h2>Our Programs & Services</h2>
+
+    <h3><p style="text-align: center;">Youth Empowerment Initiative</p></h3>
+    <p><p style="text-align: center;">Description Provides skills development, mentorship, and leadership workshops to equip young people for the future.</p>
+    <p><p style="text-align: center;">Target Group: Youth aged 15 to 25.</p>
+    <p><p style="text-align: center;">Location: Community Centers across Gauteng and Western Cape.</p>
+
+
+    <h3><p style="text-align: center;">Community Support & Outreach</p></h3>
+    <p><p style="text-align: center;">Description: Offers food security assistance, wellness checks, and companionship programs to support vulnerable residents.</p>
+    <p><p style="text-align: center;">Target Group: The elderly and low-income families.</p>
+    <p><p style="text-align: center;">Location: Local township centers and mobile outreach units.</p>
+
+
+    <h3><p style="text-align: center;">Family Unity Workshops</p></h3>
+    <p><p style="text-align: center;">Description: Hosts interactive counseling and activity sessions designed to strengthen family bonds and resolve community challenges.</p>
+    <p><p style="text-align: center;">Target Group: Families and caregivers.</p>
+
+
+    <!-- Times when Hashtag SA Unite are open -->
+    <h2>Office Hours</h2>
+    <p>Open Days: Monday to Friday 9:00-17:00</p>
+    <p> Fridays open hours 9:00-14:30 </p>
+</header>
+
+<footer>
+    <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
