@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:C="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Enquiry</title>
+</head>
+<body>
+<body bgcolor="#fff8dc"></body>
+
+<header>
+  <h1><u>Enquiries</u></h1>
+  <p><i>Serving our communities with love</i></p>
+  <nav>
+    <!-- Navigation links for all 5 pages -->
+    <a href="Home Page.html"> Home </a>
+    <a href="About us Page.html"> About us </a>
+    <a href="Services Page.html"> Services </a>
+    <a href="Enquiry Page.html"> Enquiries </a>
+    <a href="Contact Page.html"> Contact </a>
+  </nav>
+  <!-- Table for enquiries to Hashtag SA Unite -->
+  <h1>To get in touch with us</h1>
+  <table border="2" cellpadding="11" cellspacing="4">
+    <thead>
+    <tr>
+      <th>First Name</th>
+      <th>Last Name</th>
+    </tr>
+    <tr>
+      <th colspan="2">Email</th>
+    </tr>
+    <tr>
+      <th colspan="2">Type of support</th>
+    </tr>
+    <tr>
+      <th colspan="2">Phone number</th>
+    </tr>
+    <tr>
+      <th colspan="2">Your message</th>
+    </tr>
+    <tr>
+      <th colspan="2">Submit</th>
+    </tr>
+    </thead>
+    <tbody>
+</table>
+
+</header>
+
+<footer>
+  <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
